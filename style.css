@@ -1,0 +1,51 @@
+html {
+  background-color: mediumpurple;
+}
+
+body {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  border: 2px;
+  background-color: white;
+  border-color: darkblue;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: violet;
+}
+
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: violet;
+}
+
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: violet;
+}
+button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: purple;
+  background-color: mediumpurple;
+}
+
+#multiplication {
+  margin-right: 100px;
+}
+
+#division {
+  margin-right: 100px;
+}
+
+#addition {
+  margin-left: 100px;
+}
